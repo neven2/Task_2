@@ -116,8 +116,8 @@ ul li a {
 #sidebar-toggle:checked ~ .sidebar .sidebar-header {
   flex-direction: column;
 }
-#siderbar-toggle:checked ~ .sidebar .sidebar-header .sidebar-header-content {
-  margin-bottom: 20px;
+#sidebar-toggle:checked ~ .sidebar .sidebar-header .sidebar-header-content {
+  margin-bottom: 15px;
 }
 #sidebar-toggle:checked ~ .sidebar {
   width: 80px;
